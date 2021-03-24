@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453550617641",
+    "project_id": "brew-crew-f52aa",
+    "storage_bucket": "brew-crew-f52aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453550617641:android:1b4434f3780e45016e9838",
+        "android_client_info": {
+          "package_name": "com.anton.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453550617641-b67luodn2du75hm32cv17d7t7sk6arf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM3GD8_wzmH0AK_kXJXo7XqRQPHOLuplo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453550617641-b67luodn2du75hm32cv17d7t7sk6arf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
